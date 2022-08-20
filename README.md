@@ -1,2 +1,2 @@
 # Gestion-de-vente
-application de gestion de vente pour un magazin informatique 
+Application de gestion de vente pour un magazin informatique 
